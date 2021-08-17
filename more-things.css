@@ -1,0 +1,17 @@
+.bannack-3 img {
+    height: 350px;
+}
+
+.page-container {
+    background-image: url('D:images/Bannack-3.jpg');
+}
+
+.page-container > .content-wrapper {
+    color: white;
+    font-weight: 700;
+}
+
+.Ghostology-Homepage.html > .page-container {
+    -webkit-box-shadow: inset 8px -5px 11px 1px rgba(255,255,255,0.72); 
+    box-shadow: inset 8px -5px 11px 1px rgba(255,255,255,0.72);
+}
